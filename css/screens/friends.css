@@ -1,3 +1,9 @@
+#friends-body {
+  background-image: url("https://github.com/hws522/Kokoa-clone/blob/master/img/chat-background.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: 100vw 140vh;
+}
+
 #friends-display-link {
   text-align: center;
   display: block;
