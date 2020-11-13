@@ -120,3 +120,7 @@
   will-change: transform;
   animation: heartBeat 1s linear infinite;
 }
+
+.open-chat {
+  height: 60vh;
+}
