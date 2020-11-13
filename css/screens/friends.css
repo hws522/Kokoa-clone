@@ -20,6 +20,7 @@
   margin-top: 25px;
   border-top: var(--main-border);
   padding-top: 15px;
+  height: 100vh;
 }
 
 .friends-screen__channel-header {
@@ -29,7 +30,7 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
-@keyframes hideSplashScreen {
+/* @keyframes hideSplashScreen {
   from {
     opacity: 1;
   }
@@ -37,13 +38,13 @@
     opacity: 0;
     visibility: hidden;
   }
-}
+} */
 
-#splash-screen {
+/* #splash-screen {
   background-image: url("https://image.musinsa.com/mfile_s01/2019/03/18/156005c5baf40ff51a327f1c34f2975b202538.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  /* background-color: var(--khaki); */
+  background-color: var(--khaki);
   height: 100vh;
   width: 100vw;
   top: 0;
@@ -54,4 +55,4 @@
   font-size: 132px;
   animation: hideSplashScreen 0.3s ease-in-out forwards;
   animation-delay: 1.5s;
-}
+} */
