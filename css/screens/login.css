@@ -44,8 +44,10 @@
 }
 
 #login-form input[type="submit"] {
-  background-color: rgb(74, 209, 74);
-
+  /* background-color: rgb(74, 209, 74); */
+  background-image: url("https://github.com/hws522/Kokoa-clone/blob/master/img/ptn.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
   cursor: pointer;
   padding: 20px 0px;
   border-radius: 5px;
