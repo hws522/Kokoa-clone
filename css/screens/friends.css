@@ -40,11 +40,14 @@
 }
 
 #splash-screen {
-  background-color: var(--khaki);
-  position: absolute;
+  background-image: url("https://image.musinsa.com/mfile_s01/2019/03/18/156005c5baf40ff51a327f1c34f2975b202538.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: var(--khaki); */
   height: 100vh;
   width: 100vw;
   top: 0;
+  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
