@@ -7,7 +7,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: var(--khaki);
 }
 
 .icon-row__icon i {
@@ -16,4 +15,24 @@
 
 .icon-row__icon span {
   margin-top: 18px;
+}
+
+.cal-icon,
+.qr-icon {
+  color: rgb(17, 161, 4);
+}
+
+.emo-icon,
+.add-icon {
+  color: rgb(248, 148, 164);
+}
+
+.theme-icon,
+.id-icon {
+  color: #57a1fa;
+}
+
+.account-icon,
+.invite-icon {
+  color: var(--yellow);
 }
