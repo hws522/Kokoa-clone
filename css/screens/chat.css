@@ -1,6 +1,8 @@
 #chat-screen {
-  background-color: rgb(109, 151, 109);
-  height: 300vh;
+  background-image: url("https://usercontents-c.styleshare.io/images/31627104/640x-");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
 }
 
 #chat-screen .alt-header,
@@ -9,7 +11,8 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  background-color: rgb(109, 151, 109);
+  background-image: url("https://usercontents-c.styleshare.io/images/31627104/640x-");
+  background-repeat: no-repeat;
 }
 
 #chat-screen .status-bar {
@@ -37,7 +40,29 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  animation: fadeIn 0.8s linear;
+}
+
+.chat__timestamp {
+  opacity: 0;
+  animation: fadeIn 0.8s forwards;
+}
+
+.message-row {
+  opacity: 0;
+  animation: fadeIn 0.8s forwards;
+}
+
+.message-row:nth-child(2) {
+  animation-delay: 0.8s;
+}
+.message-row:nth-child(3) {
+  animation-delay: 1.5s;
+}
+.message-row:nth-child(4) {
+  animation-delay: 2.2s;
+}
+.message-row:nth-child(5) {
+  animation-delay: 2.9s;
 }
 
 .chat__timestamp {
