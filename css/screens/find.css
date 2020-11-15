@@ -1,3 +1,11 @@
+.recommended-avatar {
+  margin-top: 30px;
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
 .recommended-friends {
   margin: 25px 0px;
   padding: 25px 0px;
