@@ -1,4 +1,4 @@
-# Kokoa Clone.
+# Create a simple Messenger Clone.
 
 HTML 과 CSS 를 이용하여 메신저 화면을 구현했습니다.
 
