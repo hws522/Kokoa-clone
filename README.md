@@ -1,6 +1,6 @@
 # Kokoa Clone.
 
-HTML 과 CSS 를 이용하여 메신저 화면을 구현해봤습니다.
+HTML 과 CSS 를 이용하여 메신저 화면을 구현습니다.
 
 ### screen
 
