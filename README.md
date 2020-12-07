@@ -2,29 +2,17 @@
 
 HTML 과 CSS 를 이용하여 메신저 화면을 구현했습니다.
 
-
-
-***
-
-
+---
 
 ### screen
 
-
 <img src="https://user-images.githubusercontent.com/59306143/101231847-3fc7a980-36f1-11eb-8640-12014e4e3a30.gif" alt="제목-없음-5" width="400" height="600"/>
-
-
-<<<<<<< HEAD
-@media 를 이용하여 화면이 일정이상 커질 경우 보이지 않도록 설정했습니다.
-=======
->>>>>>> c5afb7c0c58da03dc44077c371a74e8f3eef247d
 
 ### explanation
 
-
 - 큰 틀이나, 자주 겹치는 설정은 component로 따로 빼서 지정했습니다.
 
-- @meia 를 이용하여 화면이 일정이상 커질 경우 보이지 않도록 설정했습니다.
+- @media 를 이용하여 화면이 일정이상 커질 경우 보이지 않도록 설정했습니다.
 
 - 채팅창에서 순서에 맞게 올라오는 이미지를 만들기 위해 animation(fadein, forwards, delay) 을 이용했습니다.
 
